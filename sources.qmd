@@ -1,0 +1,34 @@
+---
+title: "Sources"
+
+
+---
+
+Appendicular Muscles of the Pelvic Girdle and Lower Limbs. (n.d.). LumenLearning. <https://courses.lumenlearning.com/suny-ap1/chapter/appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs/>.
+
+GeeksforGeeks. (2022, February 26). How to perform a repeated measures ANOVA in Python. GeeksforGeeks. <https://www.geeksforgeeks.org/python/how-to-perform-a-repeated-measures-anova-in-python/>
+
+Golshani, K., Cinque, M. E., O’Halloran, P., Softness, K., Keeling, L., & Ryan, M. J. (2018). Upper extremity weightlifting injuries: Diagnosis and management. Journal of Orthopaedics, 15(1), 24–27. <https://doi.org/10.1016/j.jor.2017.11.005>.
+
+Koldenhoven, R., & Behnke, R. (2026). Anatomical planes and axes of movement.
+
+Leg Muscles: Patient Guide to Movement, Injuries and Getting Better. (2025, November 3). OrthoNJ. <https://orthonj.org/leg-muscles-patient-guide-to-movement-injuries-and-getting-better/>.
+
+Lorenzetti, S., Ostermann, M., Zeidler, F., Zimmer, P., Jentsch, L., List, R., Taylor, W. R., & Schellenberg, F. (2018). How to squat? Effects of various stance widths, foot placement angles and level of experience on knee, hip and trunk motion and loading. BMC Sports Science, Medicine and Rehabilitation, 10(1). <https://doi.org/10.1186/s13102-018-0103-7>.
+
+Martorelli, A., Bottaro, M., Vieira, A., Valdinar Rocha-Júnior, Cadore, E., Jonato Prestes, Wagner, D., & Martorelli, S. (2015). Neuromuscular and Blood Lactate Responses to Squat Power Training with Different Rest Intervals Between Sets. Journal of Sports Science & Medicine, 14(2), 269. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4424454/>.
+
+Mobilize Center. (2022, October 28). Webinar(tutorial): OpenCap-Analyzing 3D human movement dynamics using smartphone videos, part 2 of 2 [Video]. YouTube. <https://www.youtube.com/watch?v=7Xk8-K7A3Zk>.
+
+Myer, G. D., Kushner, A. M., Brent, J. L., Schoenfeld, B. J., Hugentobler, J., Lloyd, R. S., Vermeil, A., Chu, D. A., Harbin, J., & McGill, S. M. (2014). The Back Squat: A proposed assessment of functional deficits and technical factors that limit performance. Strength and Conditioning Journal, 36(6), 4–27. <https://pmc.ncbi.nlm.nih.gov/articles/PMC4262933/>.
+
+Petrucci, M. (2024, June 4) Olympic Weight Lifting Movements.
+
+Sohn, J., & Koo, D. (2023). Effects of load increase on lower extremity kinetic and kinematic variables in the back squat exercise. Technology and Health Care, 31, 247–258. <https://doi.org/10.3233/thc-236021>.
+
+
+Suman, S. (2021, March 6). What Are Core Muscles and How to Strengthen Them. Fitpage. <https://blogs.fitpage.in/core-muscles-and-how-to-strengthen-them/>.
+
+Sutton, B. (2021). The Biomechanics of the Squat: What Personal Trainers Need to Know. Nasm.org. <https://www.nasm.org/resource-center/blog/training/biomechanics-of-the-squat>.
+
+Straub, R. K., & Powers, C. M. (2024). A biomechanical review of the squat exercise: Implications for clinical practice. International Journal of Sports Physical Therapy, 19(4), 490–501. <https://doi.org/10.26603/001c.94600>.
