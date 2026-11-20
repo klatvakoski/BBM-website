@@ -112,8 +112,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Results</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./a_d/analysis_discussion.html"> 
-<span class="menu-text">Analysis and Discussion</span></a>
+    <a class="nav-link" href="./analysis_discussion/between_a_d.html"> 
+<span class="menu-text">Between Participant Data Analysis</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./analysis_discussion/within_a_d.html"> 
+<span class="menu-text">Within Participant Data Analysis</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./sources.html" aria-current="page"> 
@@ -169,6 +173,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Suman, S. (2021, March 6). What Are Core Muscles and How to Strengthen Them. Fitpage. <a href="https://blogs.fitpage.in/core-muscles-and-how-to-strengthen-them/" class="uri">https://blogs.fitpage.in/core-muscles-and-how-to-strengthen-them/</a>.</p>
 <p>Sutton, B. (2021). The Biomechanics of the Squat: What Personal Trainers Need to Know. Nasm.org. <a href="https://www.nasm.org/resource-center/blog/training/biomechanics-of-the-squat" class="uri">https://www.nasm.org/resource-center/blog/training/biomechanics-of-the-squat</a>.</p>
 <p>Straub, R. K., &amp; Powers, C. M. (2024). A biomechanical review of the squat exercise: Implications for clinical practice. International Journal of Sports Physical Therapy, 19(4), 490–501. <a href="https://doi.org/10.26603/001c.94600" class="uri">https://doi.org/10.26603/001c.94600</a>.</p>
+<p>Uhlrich, S. D, Falisse, A., Łukasz Kidziński, Muccini, J., Ko, M., Chaudhari, A., Hicks, J. L., &amp; Delp, S. L. (2023). OpenCap: Human movement dynamics from smartphone videos. PLOS Computational Biology, 19(10), e1011462–e1011462. <a href="https://doi.org/10.1371/journal.pcbi.1011462" class="uri">https://doi.org/10.1371/journal.pcbi.1011462</a></p>
 
 
 
@@ -246,7 +251,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/klatvakoski\.github\.io\/BBM-website\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

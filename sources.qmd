@@ -32,3 +32,5 @@ Suman, S. (2021, March 6). What Are Core Muscles and How to Strengthen Them. Fit
 Sutton, B. (2021). The Biomechanics of the Squat: What Personal Trainers Need to Know. Nasm.org. <https://www.nasm.org/resource-center/blog/training/biomechanics-of-the-squat>.
 
 Straub, R. K., & Powers, C. M. (2024). A biomechanical review of the squat exercise: Implications for clinical practice. International Journal of Sports Physical Therapy, 19(4), 490–501. <https://doi.org/10.26603/001c.94600>.
+
+Uhlrich, S. D, Falisse, A., Łukasz Kidziński, Muccini, J., Ko, M., Chaudhari, A., Hicks, J. L., & Delp, S. L. (2023). OpenCap: Human movement dynamics from smartphone videos. PLOS Computational Biology, 19(10), e1011462–e1011462. <https://doi.org/10.1371/journal.pcbi.1011462>

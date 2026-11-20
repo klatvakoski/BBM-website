@@ -1,0 +1,16 @@
+---
+title: "Analysis and Discussion Within Participants"
+
+---
+
+Within participants, as load is added, we expected to see improper form through an increase in knee valgus angle/hip adduction angle and trunk flexion. We anticipated that there could be multiple types of improper form. If the participant didn’t squat as low as is optimal or leaned forward excessively, we expected a decrease in knee flexion angles and an increase in hip flexion angles. If the participant squatted lower than optimal, we expected an increase in knee flexion angles and a decrease in hip flexion angles. 
+
+## Results
+The following data was found between participants. 
+
+// all our graphs and stuff // 
+
+## Discussion
+- Key p-values shown above
+- what this means for our hypotheseis
+- are squatter groups actually different? 

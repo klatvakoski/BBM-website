@@ -12,10 +12,10 @@ website:
         text: Background
       - href: methods/methods.qmd
         text: Methods
-      - href: results/results.qmd
-        text: Results
-      - href: a_d/analysis_discussion.qmd
-        text: Analysis and Discussion
+      - href: analysis_discussion/between_a_d.qmd
+        text: Between Participant Data Analysis
+      - href: analysis_discussion/within_a_d.qmd
+        text: Within Participant Data Analysis
       - href: sources.qmd
         text: Sources
 

@@ -1,0 +1,17 @@
+---
+title: "Analysis and Discussion Between Participants"
+
+---
+## Predictions
+Between the two groups of more experienced and less experienced participants, we expected to see differences in the hip external/internal angle and hip abduction/adduction angle. Lorenzetti et al. found that these two angles change based on foot angle and stance width, something that we expected coached squatters to do differently than uncoached squatters. 
+
+## Results
+The following data was found between participants. 
+
+// all our graphs and stuff // 
+
+## Discussion
+- Key p-values shown above
+- what this means for our hypotheseis
+- are squatter groups actually different? 
+
