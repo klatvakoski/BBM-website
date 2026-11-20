@@ -1,0 +1,26 @@
+---
+title: "Background Information"
+
+
+---
+
+## Relevant Biology
+Squatting is a movement that involves bending the knees while keeping the feet approximately shoulder-width apart and lowering until the knees reach approximately 90 degrees, then reversing this motion back to an upright position. 
+
+// add picture/gif of squatting to break up text?  // 
+
+This movement involves many of the lower body muscles and joints. During the descent of a squat, the muscles involved contract eccentrically, the hip and knee joints flex, and the ankles dorsiflex (Sutton, 2021). During the ascent of a squat, the muscles involved contract concentrically, the hip and knee joints extend, and the ankles plantarflex (Sutton, 2021). Concentric contraction means that the muscle shortens to produce a force while eccentric contraction means that the muscle lengthens while maintaining a load. 
+
+// pic with labels on each of the joints showing the eccentric vs concentric contraction //
+
+The primary muscles associated with squats are in the legs. The quadriceps are largely involved with the knee extension during the squat, including the rectus femoris, the vastus lateralis, the vastus medialis, and the vastus intermedius (Sutton, 2021). The hip extension is supported by the gluteus maximus, the hamstrings, and the adductor magnus (Sutton, 2021). The hamstrings, which include the biceps femoris, the semitendinosus, and the semimembranosus, are also the source of a lot of the force produced in the lower body (Sutton, 2021). 
+
+![Leg Muscle Anatomy (Leg Muscles, 2025)](images/leg_muscle.jpg){fig-alt="Diagram showing leg muscles from the anterior, lateral, and posterior view."}
+
+Squats involve not only muscles to support the movement, but also muscles to maintain stability. For example, the core musculature, including the transverse abdominis, the internal and external obliques, the erector spinae, and the multifidus, all help maintain spinal stability (Sutton, 2021). The gluteus medius is involved in femoral and knee alignment (Sutton, 2021). Finally, the calf complex, including the gastrocnemius and the soleus, maintain ankle stability (Sutton, 2021). All of these muscles mentioned are portrayed in the Figures 1-3 below except for the vastus intermedius, which is a deeper muscle in the quadriceps.
+
+
+## Why is Squatting Important?
+Squatting is a foundational movement that is required for functional, everyday living, found in tasks such as a sit-to-stand or lifting objects from the ground. It is also one of the most common tasks associated with rehabilitation exercises and physical therapy. The squat relies on lower extremity muscles to perform the movement with additional recruitment of the trunk muscles to further stabilize the body (Straub and Powers, 2024). This introduces many variables into its execution; with different body positions, foot and knee rotations, and stance width and depths, squat biomechanics can differ greatly (Straub and Powers, 2024). When people experience functional fatigue or a lack of strength, it can influence their neuromuscular control, proprioception, and balance, resulting in an increase in exacerbated biomechanical risk factors (Bafrouei et al. 2025). These include measures like dynamic knee valgus or side shifting, which can be indicative of movement errors or movements that are more prone to injury. It is important to understand the kinematic differences across progressive loading to recognize how increased loading can impact injury risk. This study will utilize markerless motion capture (OpenCap) to analyze joint kinematics and muscle forces under increasing weight loads while performing squats.
+
+

@@ -1,0 +1,20 @@
+---
+title: "About BBM"
+about:
+  template: trestles
+  image: skeleton.jpg
+
+---
+**[BBM (Best BioMechanics) is a team project researching squat biomechanics using OpenCap and OpenSim, and learning about data processing along the way!]{style="color: #27A6F5;"}**
+
+## Objective
+
+The objective of this project is to quantify changes in squat biomechanics as load increases and to determine whether there are statistically significant variabilities in squat kinematics (joint angles and muscle forces) to identify common biomechanical mistakes or movement compensations during squatting. 
+These questions summarize the main objectives:
+
+- How do joint angles change across progressive loading during squatting?
+Stretch goal: How do muscle forces change across progressive loading during squatting?
+- Do joint kinematics and kinetics change such that they no longer match proper form as the load of a squat increases? 
+- How does the above compare between people and to the proper squatting form determined from previous literature?
+
+To learn some background information about squatting biology and the motivations for this project, visit the [Background page](background_information/background.qmd).  
