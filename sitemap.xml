@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://klatvakoski.github.io/BBM-website/sources.html</loc>
-    <lastmod>2026-11-20T01:30:21.560Z</lastmod>
-  </url>
-  <url>
-    <loc>https://klatvakoski.github.io/BBM-website/methods/methods.html</loc>
-    <lastmod>2026-11-19T21:05:52.371Z</lastmod>
-  </url>
-  <url>
-    <loc>https://klatvakoski.github.io/BBM-website/background_information/background.html</loc>
-    <lastmod>2026-11-20T03:18:05.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://klatvakoski.github.io/BBM-website/a_d/analysis_discussion.html</loc>
-    <lastmod>2026-11-19T21:05:52.212Z</lastmod>
+    <lastmod>2026-11-20T22:55:42.961Z</lastmod>
   </url>
   <url>
     <loc>https://klatvakoski.github.io/BBM-website/index.html</loc>
-    <lastmod>2026-11-20T01:11:20.714Z</lastmod>
+    <lastmod>2026-11-20T22:55:42.960Z</lastmod>
   </url>
   <url>
-    <loc>https://klatvakoski.github.io/BBM-website/results/results.html</loc>
-    <lastmod>2026-11-19T21:05:52.372Z</lastmod>
+    <loc>https://klatvakoski.github.io/BBM-website/analysis_discussion/within_a_d.html</loc>
+    <lastmod>2026-11-20T22:55:42.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://klatvakoski.github.io/BBM-website/analysis_discussion/between_a_d.html</loc>
+    <lastmod>2026-11-20T22:55:42.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://klatvakoski.github.io/BBM-website/background_information/background.html</loc>
+    <lastmod>2026-11-20T22:55:42.888Z</lastmod>
+  </url>
+  <url>
+    <loc>https://klatvakoski.github.io/BBM-website/methods/methods.html</loc>
+    <lastmod>2026-11-20T22:55:42.961Z</lastmod>
   </url>
 </urlset>
