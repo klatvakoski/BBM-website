@@ -74,7 +74,7 @@
     "href": "analysis_discussion/within_a_d.html#discussion",
     "title": "Analysis and Discussion Within Participants",
     "section": "Discussion",
-    "text": "Discussion\n\nKey p-values shown above\nwhat this means for our hypotheseis\nare squatter groups actually different?"
+    "text": "Discussion\n\nKey p-values shown above\nwhat this means for our hypotheseis\ndoes form actually change with added load? if so, in which ways?"
   },
   {
     "objectID": "analysis_discussion/between_a_d.html",
@@ -137,6 +137,6 @@
     "href": "analysis_discussion/within_a_d.html#results",
     "title": "Analysis and Discussion Within Participants",
     "section": "Results",
-    "text": "Results\nThe following data was found between participants.\n// all our graphs and stuff //"
+    "text": "Results\nFor each participant, we extracted the following angles:\n\nHip flexion (maximum values)\nHip adduction (minimum values)\nHip rotation (maximum values)\nKnee angle (maximum values)\nTrunk extension (minimum values)\n\nHere is an example of what one set of squats would look like for each participant:\n\n\n\nExample Angles Extracted\n\n\nThe angles of interest for hip adduction and trunk extension are reported as negative values for the squats over time, but to normalize our data, we have used the absolute value of each these minimums. Therefore, all future data presents these as positive values.\nThe following data was found within participants.\nWe are comparing the average angle maximum or minimums across 3 loading conditions within participants. We will present this information as a set of bar graphs for each participant within statistically significant differences between loading conditions as pictured below. Each bar graph set will include the angles that have been determined to be statistically significant based on a two-sided t-test.\n\n\n\nExample Bar Chart for Within Participants\n\n\nWe will also include a table of the angles and p-values as another way to group this data more comprehensively."
   }
 ]
