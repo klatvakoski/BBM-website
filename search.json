@@ -32,35 +32,35 @@
     "href": "analysis_discussion/within_a_d.html#results",
     "title": "Analysis and Discussion Within Participants",
     "section": "Results",
-    "text": "Results\nThe following data was found between participants.\n// all our graphs and stuff //"
+    "text": "Results\nFor each participant, we extracted the following angles:\n\nHip flexion (maximum values)\nHip adduction (minimum values)\nHip rotation (maximum values)\nKnee angle (maximum values)\nTrunk extension (minimum values)\n\nHere is an example of what one set of squats would look like for each participant:\n\n\n\nExample Angles Extracted\n\n\nThe angles of interest for hip adduction and trunk extension are reported as negative values for the squats over time, but to normalize our data, we have used the absolute value of each these minimums. Therefore, all future data presents these as positive values.\nThe following data was found within participants.\nWe are comparing the average angle maximum or minimums across 3 loading conditions within participants. We will present this information as a set of bar graphs for each participant within statistically significant differences between loading conditions as pictured below. Each bar graph set will include the angles that have been determined to be statistically significant based on a two-sided t-test.\n\n\n\nExample Bar Chart for Within Participants\n\n\nWe will also include a table of the angles and p-values as another way to group this data more comprehensively."
   },
   {
     "objectID": "analysis_discussion/within_a_d.html#discussion",
     "href": "analysis_discussion/within_a_d.html#discussion",
     "title": "Analysis and Discussion Within Participants",
     "section": "Discussion",
-    "text": "Discussion\n\nKey p-values shown above\nwhat this means for our hypotheseis\nare squatter groups actually different?"
+    "text": "Discussion\n\nKey p-values shown above\nwhat this means for our hypotheseis\ndoes form actually change with added load? if so, in which ways?"
   },
   {
     "objectID": "analysis_discussion/between_a_d.html",
     "href": "analysis_discussion/between_a_d.html",
     "title": "Analysis and Discussion Between Participants",
     "section": "",
-    "text": "Between the two groups of more experienced and less experienced participants, we expected to see differences in the hip external/internal angle and hip abduction/adduction angle. Lorenzetti et al. found that these two angles change based on foot angle and stance width, something that we expected coached squatters to do differently than uncoached squatters."
+    "text": "Participants were grouped as “trained” or “untrained” based on the level of formal squat form coaching that they have received. Between the two groups of more experienced and less experienced participants, we expected to see differences in the hip external/internal angle and hip abduction/adduction angle. Lorenzetti et al. found that these two angles change based on foot angle and stance width, something that we expected trained squatters to do differently than untrained squatters."
   },
   {
     "objectID": "analysis_discussion/between_a_d.html#predictions",
     "href": "analysis_discussion/between_a_d.html#predictions",
     "title": "Analysis and Discussion Between Participants",
     "section": "",
-    "text": "Between the two groups of more experienced and less experienced participants, we expected to see differences in the hip external/internal angle and hip abduction/adduction angle. Lorenzetti et al. found that these two angles change based on foot angle and stance width, something that we expected coached squatters to do differently than uncoached squatters."
+    "text": "Participants were grouped as “trained” or “untrained” based on the level of formal squat form coaching that they have received. Between the two groups of more experienced and less experienced participants, we expected to see differences in the hip external/internal angle and hip abduction/adduction angle. Lorenzetti et al. found that these two angles change based on foot angle and stance width, something that we expected trained squatters to do differently than untrained squatters."
   },
   {
     "objectID": "analysis_discussion/between_a_d.html#results",
     "href": "analysis_discussion/between_a_d.html#results",
     "title": "Analysis and Discussion Between Participants",
     "section": "Results",
-    "text": "Results\nThe following data was found between participants.\n// all our graphs and stuff //"
+    "text": "Results\nThe following data was found between participants.\nWe are comparing the average angle maximum or minimums between trained and untrained participants for each of the 3 weight conditions. We will present this information as 3 sets of bar graphs (one for each weight condition) as pictured below. Each bar graph set will include the angles that have been determined to be statistically significant based on a two-sided t-test.\n\n\n\nExample Bar Chart for Between Participants"
   },
   {
     "objectID": "analysis_discussion/between_a_d.html#discussion",
@@ -116,7 +116,7 @@
     "href": "methods/methods.html#testing",
     "title": "Methods",
     "section": "Testing",
-    "text": "Testing\nDuring the testing slot for each participant, they were reminded that their participation was voluntary and that they could stop at any time. The test setup included two tripods 30-45° apart, two iOS-compatible phones with OpenCap, a checkerboard background (for OpenCap calibration) that was 4x5 with 35mm checkers, and tape markings where the person should stand and where each of the tripods was located to ensure consistency.\n// Test setup with tripods, board, and tape shown. //\nWe tested 3 levels of weight (0%, 10%, and 25% of bodyweight) across participants with 5 squats at each weight for a total of 15 squats per person. Before squatting, participants were shown this video (from 0:57-1:07) to demonstrate the type of squat that they were asked to perform. No other specific coaching on form was given. Following the precedent of similar studies, we had participants follow a standardized warm-up and stretching routine prior to squatting to minimize injury risk (Lorenzetti et al., 2018). Participants followed this video from 0-2:14.\nAt the start of a session, the following information was provided to setup a participant in OpenCap: weight, height, age, and specification that the participant was unimpaired. Once the session was finished, the data was automatically uploaded to the cloud, which used x model from OpenCap, which uses the model and that data collected to optimize the best fit for marker positions throughout time and report inverse kinematics and inverse dynamics. More in-depth information on OpenCap processing can be found on the OpenCap website, and in Uhlrich et al., 2023.\nEach round of 5 squats was captured together in one OpenCap video. Between rounds, participants took a 2-minute rest to minimize any possible effects of fatigue (Martorelli et al., 2015). For the first round of squatting (0% loading case) the participant put their left hand in the air and then dropped it before starting the squats in order to synchronize the cameras (Mobilize Center, 2022). For the 10% and 25% loading cases, the participants were instructed to hold a handheld weight in front of them while squatting. A new session was started each time a new participant’s data was recorded."
+    "text": "Testing\nDuring the testing slot for each participant, they were reminded that their participation was voluntary and that they could stop at any time. The test setup included two tripods 30-45° apart, two iOS-compatible phones with OpenCap, a checkerboard background (for OpenCap calibration) that was 4x5 with 35mm checkers, and tape markings where the person should stand and where each of the tripods was located to ensure consistency.\n\n\n\n\n\n\nCheckerboard background for OpenCap calibration.\n\n\n\n// Test setup with tripods, board, and tape shown. //\nWe tested 3 levels of weight (0%, 10%, and 25% of bodyweight) across participants with 5 squats at each weight for a total of 15 squats per person. Before squatting, participants were shown this video (from 0:57-1:07) to demonstrate the type of squat that they were asked to perform. No other specific coaching on form was given. Following the precedent of similar studies, we had participants follow a standardized warm-up and stretching routine prior to squatting to minimize injury risk (Lorenzetti et al., 2018). Participants followed this video from 0-2:14.\nAt the start of a session, the following information was provided to setup a participant in OpenCap: weight, height, age, and specification that the participant was unimpaired. Once the session was finished, the data was automatically uploaded to the cloud, which used x model from OpenCap, which uses the model and that data collected to optimize the best fit for marker positions throughout time and report inverse kinematics and inverse dynamics. More in-depth information on OpenCap processing can be found on the OpenCap website, and in Uhlrich et al., 2023.\nEach round of 5 squats was captured together in one OpenCap video. Between rounds, participants took a 2-minute rest to minimize any possible effects of fatigue (Martorelli et al., 2015). For the first round of squatting (0% loading case) the participant put their left hand in the air and then dropped it before starting the squats in order to synchronize the cameras (Mobilize Center, 2022). For the 10% and 25% loading cases, the participants were instructed to hold a handheld weight in front of them while squatting. A new session was started each time a new participant’s data was recorded."
   },
   {
     "objectID": "methods/methods.html#data-processing",
