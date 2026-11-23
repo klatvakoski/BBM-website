@@ -7,7 +7,9 @@ title: "Background Information"
 ## Relevant Biology
 Squatting is a movement that involves bending the knees while keeping the feet approximately shoulder-width apart and lowering until the knees reach approximately 90 degrees, then reversing this motion back to an upright position. 
 
-// add picture/gif of squatting to break up text?  // 
+::: {style="text-align: center;"}
+{{< video videos\squat_example.mp4 width="800" height="450">}}
+:::
 
 This movement involves many of the lower body muscles and joints. During the descent of a squat, the muscles involved contract eccentrically, the hip and knee joints flex, and the ankles dorsiflex (Sutton, 2021). During the ascent of a squat, the muscles involved contract concentrically, the hip and knee joints extend, and the ankles plantarflex (Sutton, 2021). Concentric contraction means that the muscle shortens to produce a force while eccentric contraction means that the muscle lengthens while maintaining a load, as shown the image below. 
 
