@@ -7,6 +7,69 @@
     "text": "Appendicular Muscles of the Pelvic Girdle and Lower Limbs. (n.d.). LumenLearning. https://courses.lumenlearning.com/suny-ap1/chapter/appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs/.\nGeeksforGeeks. (2022, February 26). How to perform a repeated measures ANOVA in Python. GeeksforGeeks. https://www.geeksforgeeks.org/python/how-to-perform-a-repeated-measures-anova-in-python/\nGolshani, K., Cinque, M. E., O’Halloran, P., Softness, K., Keeling, L., & Ryan, M. J. (2018). Upper extremity weightlifting injuries: Diagnosis and management. Journal of Orthopaedics, 15(1), 24–27. https://doi.org/10.1016/j.jor.2017.11.005.\nKoldenhoven, R., & Behnke, R. (2026). Anatomical planes and axes of movement.\nLeg Muscles: Patient Guide to Movement, Injuries and Getting Better. (2025, November 3). OrthoNJ. https://orthonj.org/leg-muscles-patient-guide-to-movement-injuries-and-getting-better/.\nLorenzetti, S., Ostermann, M., Zeidler, F., Zimmer, P., Jentsch, L., List, R., Taylor, W. R., & Schellenberg, F. (2018). How to squat? Effects of various stance widths, foot placement angles and level of experience on knee, hip and trunk motion and loading. BMC Sports Science, Medicine and Rehabilitation, 10(1). https://doi.org/10.1186/s13102-018-0103-7.\nMartorelli, A., Bottaro, M., Vieira, A., Valdinar Rocha-Júnior, Cadore, E., Jonato Prestes, Wagner, D., & Martorelli, S. (2015). Neuromuscular and Blood Lactate Responses to Squat Power Training with Different Rest Intervals Between Sets. Journal of Sports Science & Medicine, 14(2), 269. https://pmc.ncbi.nlm.nih.gov/articles/PMC4424454/.\nMobilize Center. (2022, October 28). Webinar(tutorial): OpenCap-Analyzing 3D human movement dynamics using smartphone videos, part 2 of 2 [Video]. YouTube. https://www.youtube.com/watch?v=7Xk8-K7A3Zk.\nMyer, G. D., Kushner, A. M., Brent, J. L., Schoenfeld, B. J., Hugentobler, J., Lloyd, R. S., Vermeil, A., Chu, D. A., Harbin, J., & McGill, S. M. (2014). The Back Squat: A proposed assessment of functional deficits and technical factors that limit performance. Strength and Conditioning Journal, 36(6), 4–27. https://pmc.ncbi.nlm.nih.gov/articles/PMC4262933/.\nPetrucci, M. (2024, June 4) Olympic Weight Lifting Movements.\nSohn, J., & Koo, D. (2023). Effects of load increase on lower extremity kinetic and kinematic variables in the back squat exercise. Technology and Health Care, 31, 247–258. https://doi.org/10.3233/thc-236021.\nSuman, S. (2021, March 6). What Are Core Muscles and How to Strengthen Them. Fitpage. https://blogs.fitpage.in/core-muscles-and-how-to-strengthen-them/.\nSutton, B. (2021). The Biomechanics of the Squat: What Personal Trainers Need to Know. Nasm.org. https://www.nasm.org/resource-center/blog/training/biomechanics-of-the-squat.\nStraub, R. K., & Powers, C. M. (2024). A biomechanical review of the squat exercise: Implications for clinical practice. International Journal of Sports Physical Therapy, 19(4), 490–501. https://doi.org/10.26603/001c.94600.\nUhlrich, S. D, Falisse, A., Łukasz Kidziński, Muccini, J., Ko, M., Chaudhari, A., Hicks, J. L., & Delp, S. L. (2023). OpenCap: Human movement dynamics from smartphone videos. PLOS Computational Biology, 19(10), e1011462–e1011462. https://doi.org/10.1371/journal.pcbi.1011462"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About BBM",
+    "section": "",
+    "text": "BBM (Best BioMechanics) is a team project researching squat biomechanics using OpenCap and OpenSim, and learning about data processing along the way!"
+  },
+  {
+    "objectID": "index.html#objective",
+    "href": "index.html#objective",
+    "title": "About BBM",
+    "section": "Objective",
+    "text": "Objective\nThe objective of this project is to quantify changes in squat biomechanics as load increases and to determine whether there are statistically significant variabilities in squat kinematics (joint angles and muscle forces) to identify common biomechanical mistakes or movement compensations during squatting. These questions summarize the main objectives:\n\nHow do joint angles change across progressive loading during squatting? Stretch goal: How do muscle forces change across progressive loading during squatting?\nDo joint kinematics and kinetics change such that they no longer match proper form as the load of a squat increases?\nHow does the above compare between people and to the proper squatting form determined from previous literature?\n\nTo learn some background information about squatting biology and the motivations for this project, visit the Background page."
+  },
+  {
+    "objectID": "analysis_discussion/within_a_d.html",
+    "href": "analysis_discussion/within_a_d.html",
+    "title": "Analysis and Discussion Within Participants",
+    "section": "",
+    "text": "Within participants, as load is added, we expected to see improper form through an increase in knee valgus angle/hip adduction angle and trunk flexion. We anticipated that there could be multiple types of improper form. If the participant didn’t squat as low as is optimal or leaned forward excessively, we expected a decrease in knee flexion angles and an increase in hip flexion angles. If the participant squatted lower than optimal, we expected an increase in knee flexion angles and a decrease in hip flexion angles."
+  },
+  {
+    "objectID": "analysis_discussion/within_a_d.html#results",
+    "href": "analysis_discussion/within_a_d.html#results",
+    "title": "Analysis and Discussion Within Participants",
+    "section": "Results",
+    "text": "Results\nFor each participant, we extracted the following angles:\n\nHip flexion (maximum values)\nHip adduction (minimum values)\nHip rotation (maximum values)\nKnee angle (maximum values)\nTrunk extension (minimum values)\n\nHere is an example of what one set of squats would look like for each participant:\n\n\n\nExample Angles Extracted\n\n\nThe angles of interest for hip adduction and trunk extension are reported as negative values for the squats over time, but to normalize our data, we have used the absolute value of each these minimums. Therefore, all future data presents these as positive values.\nThe following data was found within participants.\nWe are comparing the average angle maximum or minimums across 3 loading conditions within participants. We will present this information as a set of bar graphs for each participant within statistically significant differences between loading conditions as pictured below. Each bar graph set will include the angles that have been determined to be statistically significant based on a two-sided t-test.\n\n\n\nExample Bar Chart for Within Participants\n\n\nWe will also include a table of the angles and p-values as another way to group this data more comprehensively."
+  },
+  {
+    "objectID": "analysis_discussion/within_a_d.html#discussion",
+    "href": "analysis_discussion/within_a_d.html#discussion",
+    "title": "Analysis and Discussion Within Participants",
+    "section": "Discussion",
+    "text": "Discussion\n\nKey p-values shown above\nwhat this means for our hypotheseis\ndoes form actually change with added load? if so, in which ways?"
+  },
+  {
+    "objectID": "analysis_discussion/between_a_d.html",
+    "href": "analysis_discussion/between_a_d.html",
+    "title": "Analysis and Discussion Between Participants",
+    "section": "",
+    "text": "Participants were grouped as “trained” or “untrained” based on the level of formal squat form coaching that they have received. Between the two groups of more experienced and less experienced participants, we expected to see differences in the hip external/internal angle and hip abduction/adduction angle. Lorenzetti et al. found that these two angles change based on foot angle and stance width, something that we expected trained squatters to do differently than untrained squatters."
+  },
+  {
+    "objectID": "analysis_discussion/between_a_d.html#predictions",
+    "href": "analysis_discussion/between_a_d.html#predictions",
+    "title": "Analysis and Discussion Between Participants",
+    "section": "",
+    "text": "Participants were grouped as “trained” or “untrained” based on the level of formal squat form coaching that they have received. Between the two groups of more experienced and less experienced participants, we expected to see differences in the hip external/internal angle and hip abduction/adduction angle. Lorenzetti et al. found that these two angles change based on foot angle and stance width, something that we expected trained squatters to do differently than untrained squatters."
+  },
+  {
+    "objectID": "analysis_discussion/between_a_d.html#results",
+    "href": "analysis_discussion/between_a_d.html#results",
+    "title": "Analysis and Discussion Between Participants",
+    "section": "Results",
+    "text": "Results\nThe following data was found between participants.\nWe are comparing the average angle maximum or minimums between trained and untrained participants for each of the 3 weight conditions. We will present this information as 3 sets of bar graphs (one for each weight condition) as pictured below. Each bar graph set will include the angles that have been determined to be statistically significant based on a two-sided t-test.\n\n\n\nExample Bar Chart for Between Participants"
+  },
+  {
+    "objectID": "analysis_discussion/between_a_d.html#discussion",
+    "href": "analysis_discussion/between_a_d.html#discussion",
+    "title": "Analysis and Discussion Between Participants",
+    "section": "Discussion",
+    "text": "Discussion\n\nKey p-values shown above\nwhat this means for our hypotheseis\nare squatter groups actually different?"
+  },
+  {
     "objectID": "background_information/background.html",
     "href": "background_information/background.html",
     "title": "Background Information",
@@ -35,74 +98,11 @@
     "text": "Prior Work in Squatting Analysis\nMany studies have looked at proper squat form and measured associated kinematics. Kinematics are commonly measured in three planes: sagittal, frontal, transverse. There are fundamental movements associated with each plane (Koldenhoven and Behnke, 2027). In the sagittal plane, flexion is the reduction of an angle formed by the bones of a joint, while returning to the original position is extension (Koldenhoven and Behnke, 2027). In the frontal plane, adduction and abduction are defined as movements towards or away from the midline of the body, respectively (Koldenhoven and Behnke, 2027). Finally, in the transverse plane, there is internal and external rotation, usually from the midline of the body (Koldenhoven and Behnke, 2027).\nFrom these foundational movements, there are many common joint kinematics that are studied in squat analyses such as knee internal/external rotation, hip internal/external rotation, hip adduction/abduction, knee flexion/extension, hip flexion/extension, and trunk flexion (which is determined by hip and knee flexion) (Straub and Powers, 2024).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFoundational kinematics for the hip, knee, and ankle in the sagittal, frontal, and transverse planes (Modified from Sohn and Koo, 2023).\n\n\nOne such study analyzed how stance width and foot placement angle affected knee, hip motion, and trunk position. In general, knee deviation (ΔD*) as a percentage of leg length was used as a measure of deviation from proper form, since low deviation indicates that the knees are “maintained vertically between the malleoli in the frontal plane,” which helps “avoid displacement and additional passive forces, and thereby reduce the risk of injury” (Lorenzetti et al., 2018). Lorenzetti et al. found that knee deviation ranges between -17%-27%, where a negative deviation corresponds to inwards rotation and valgus position and a positive deviation corresponds to outwards rotation and varus position. A wider stance tends to lead to smaller deviations and wider foot placement angles tends to lead to larger deviations. The knee range of motion tends to be fairly constant across stances, whereas the hip range of motion is more sensitive to the foot position. Below summarizes the common trends and range of motion experienced by the hip and knees:\n\nIncreases with wider stance and foot angle:\n\nHip front angle: range of 5-27 degrees\nHip transverse angle: range of 8-38 degrees\n\nRemains fairly constant regardless of stance:\n\nHip sagittal angle: range of 83-93 degrees\nKnee front angle: range of 4-8 degrees\nKnee sagittal angle: range of 85-107 degrees\nKnee transverse angle: range of 8-17 degrees\n\n\nLorenzetti et al. also found that a wider stance and foot angle leads to increased hip adduction angle and lower adduction moment. Additionally, these moments tend to increase with load. As a result of their study, Lorenzetti et al. recommends a “moderate foot placement angle (approximately 20°) in combination with a moderate stance width (with feet approximately shoulder width apart)” for proper squatting form (Lorenzetti et al., 2018).\nIn regards to trunk position, Straub and Power explain how the squatter’s stance can affect joint flexion and moments (Straub and Powers, 2024). In general, a more upright stance leads to an increase in the knee flexion moment and decreases the hip flexion moment, while a stance that is shifted forward leads to an increase in the hip flexion moment and decreases the knee flexion moment, as seen in the image below. Straub and Powers found that as forward trunk inclination increases, so does the muscular demand on the lower back to stabilize the trunk. Therefore, Straub and Powers recommend maintaining a neutral spine position to control compressive and shear forces during the squat (Straub and Powers, 2024).\n\n\n\nA. An upright trunk stance during a squat. B. A forward shifted trunk during a squat (Straub and Powers, 2024).\n\n\nAnother article provides a proposed assessment of functional deficits in squat form, highlighting 10 criteria for the ideal squat position. These include maintaining the neck perpendicular to the ground with a forward gaze, maintaining the chest in an upward position with shoulder blades retracted, and keeping the trunk parallel to the tibia with a slightly lordotic (inward curving) lumbar spine (Myer et al., 2014). In addition, the hips should remain parallel to the ground in the frontal plane, the knees should not laterally cross the medial malleolus, the tibias should remain parallel to the torso, and the feet should stay flat on the ground (Myer et al., 2014). Also, the squatter should descend at a controlled constant speed until the top of the quadriceps are at least parallel to the ground, then ascend such that the shoulder and hips rise at the same time (Myer et al., 2014).\nBased on this review, proper squat form can be determined by certain criteria, such as stance, foot width, and spine position where there are ranges of joint angles within the optimal criteria. This provides baseline proper form criteria and joint angles to compare our test results against."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About BBM",
-    "section": "",
-    "text": "BBM (Best BioMechanics) is a team project researching squat biomechanics using OpenCap and OpenSim, and learning about data processing along the way!"
-  },
-  {
-    "objectID": "index.html#objective",
-    "href": "index.html#objective",
-    "title": "About BBM",
-    "section": "Objective",
-    "text": "Objective\nThe objective of this project is to quantify changes in squat biomechanics as load increases and to determine whether there are statistically significant variabilities in squat kinematics (joint angles and muscle forces) to identify common biomechanical mistakes or movement compensations during squatting. These questions summarize the main objectives:\n\nHow do joint angles change across progressive loading during squatting? Stretch goal: How do muscle forces change across progressive loading during squatting?\nDo joint kinematics and kinetics change such that they no longer match proper form as the load of a squat increases?\nHow does the above compare between people and to the proper squatting form determined from previous literature?\n\nTo learn some background information about squatting biology and the motivations for this project, visit the Background page."
-  },
-  {
     "objectID": "methods/methods.html",
     "href": "methods/methods.html",
     "title": "Methods",
     "section": "",
     "text": "We collected data from 14 people, who were selected from respondents to a google form sent out to the student body. Five participants had no formal coaching on proper squat form, while 9 participants had received some form of formal coaching, such as from athletics coaches. To follow OSHA safety guidelines, loading was capped at 50lbs. Therefore, to standardize the loading based on bodyweight percentage, no participants above 200lbs were selected for this experiment. After informing the participants of the risks of the study and obtaining consent, we will collected the the following background information for each participant, which was kept anonymous and confidential:\n\nHeight\nWeight\nAge\nPrevious experience with squats\nPrevious experience with coaching on squatting form"
-  },
-  {
-    "objectID": "analysis_discussion/within_a_d.html",
-    "href": "analysis_discussion/within_a_d.html",
-    "title": "Analysis and Discussion Within Participants",
-    "section": "",
-    "text": "Within participants, as load is added, we expected to see improper form through an increase in knee valgus angle/hip adduction angle and trunk flexion. We anticipated that there could be multiple types of improper form. If the participant didn’t squat as low as is optimal or leaned forward excessively, we expected a decrease in knee flexion angles and an increase in hip flexion angles. If the participant squatted lower than optimal, we expected an increase in knee flexion angles and a decrease in hip flexion angles."
-  },
-  {
-    "objectID": "analysis_discussion/within_a_d.html#data",
-    "href": "analysis_discussion/within_a_d.html#data",
-    "title": "Analysis and Discussion Within Participants",
-    "section": "Data",
-    "text": "Data\nThe following data was found between participants.\n// all our graphs and stuff //"
-  },
-  {
-    "objectID": "analysis_discussion/within_a_d.html#discussion",
-    "href": "analysis_discussion/within_a_d.html#discussion",
-    "title": "Analysis and Discussion Within Participants",
-    "section": "Discussion",
-    "text": "Discussion\n\nKey p-values shown above\nwhat this means for our hypotheseis\ndoes form actually change with added load? if so, in which ways?"
-  },
-  {
-    "objectID": "analysis_discussion/between_a_d.html",
-    "href": "analysis_discussion/between_a_d.html",
-    "title": "Analysis and Discussion Between Participants",
-    "section": "",
-    "text": "Participants were grouped as “trained” or “untrained” based on the level of formal squat form coaching that they have received. Between the two groups of more experienced and less experienced participants, we expected to see differences in the hip external/internal angle and hip abduction/adduction angle. Lorenzetti et al. found that these two angles change based on foot angle and stance width, something that we expected trained squatters to do differently than untrained squatters."
-  },
-  {
-    "objectID": "analysis_discussion/between_a_d.html#predictions",
-    "href": "analysis_discussion/between_a_d.html#predictions",
-    "title": "Analysis and Discussion Between Participants",
-    "section": "",
-    "text": "Participants were grouped as “trained” or “untrained” based on the level of formal squat form coaching that they have received. Between the two groups of more experienced and less experienced participants, we expected to see differences in the hip external/internal angle and hip abduction/adduction angle. Lorenzetti et al. found that these two angles change based on foot angle and stance width, something that we expected trained squatters to do differently than untrained squatters."
-  },
-  {
-    "objectID": "analysis_discussion/between_a_d.html#data",
-    "href": "analysis_discussion/between_a_d.html#data",
-    "title": "Analysis and Discussion Between Participants",
-    "section": "Data",
-    "text": "Data\nThe following data was found between participants.\n// all our graphs and stuff //"
-  },
-  {
-    "objectID": "analysis_discussion/between_a_d.html#discussion",
-    "href": "analysis_discussion/between_a_d.html#discussion",
-    "title": "Analysis and Discussion Between Participants",
-    "section": "Discussion",
-    "text": "Discussion\n\nKey p-values shown above\nwhat this means for our hypotheseis\nare squatter groups actually different?"
   },
   {
     "objectID": "methods/methods.html#participant-recruitment",
@@ -116,14 +116,15 @@
     "href": "methods/methods.html#testing",
     "title": "Methods",
     "section": "Testing",
-    "text": "Testing\nDuring the testing slot for each participant, they were reminded that their participation was voluntary and that they could stop at any time. The test setup included two tripods 30-45° apart, two iOS-compatible phones with OpenCap, a checkerboard background (for OpenCap calibration) that was 4x5 with 35mm checkers, and tape markings where the person should stand and where each of the tripods was located to ensure consistency.\n\n\n\n\n\n\nCheckerboard background for OpenCap calibration.\n\n\n\n// Test setup with tripods, board, and tape shown. //\nWe tested 3 levels of weight (0%, 10%, and 25% of bodyweight) across participants with 5 squats at each weight for a total of 15 squats per person. Before squatting, participants were shown this video (from 0:57-1:07) to demonstrate the type of squat that they were asked to perform. No other specific coaching on form was given. Following the precedent of similar studies, we had participants follow a standardized warm-up and stretching routine prior to squatting to minimize injury risk (Lorenzetti et al., 2018). Participants followed this video from 0-2:14.\nAt the start of a session, the following information was provided to setup a participant in OpenCap: weight, height, age, and specification that the participant was unimpaired. Once the session was finished, the data was automatically uploaded to the cloud, which used x model from OpenCap, which uses the model and that data collected to optimize the best fit for marker positions throughout time and report inverse kinematics and inverse dynamics. More in-depth information on OpenCap processing can be found on the OpenCap website, and in Uhlrich et al., 2023.\nEach round of 5 squats was captured together in one OpenCap video. Between rounds, participants took a 2-minute rest to minimize any possible effects of fatigue (Martorelli et al., 2015). For the first round of squatting (0% loading case) the participant put their left hand in the air and then dropped it before starting the squats in order to synchronize the cameras (Mobilize Center, 2022). For the 10% and 25% loading cases, the participants were instructed to hold a handheld weight in front of them while squatting. A new session was started each time a new participant’s data was recorded."
+    "text": "Testing\nDuring the testing slot for each participant, they were reminded that their participation was voluntary and that they could stop at any time. The test setup included two tripods 30-45° apart, two iOS-compatible phones with OpenCap, a checkerboard background (for OpenCap calibration) that was 4x5 with 35mm checkers, and tape markings where the person should stand and where each of the tripods was located to ensure consistency.\n\n\n\n\n\n\nCheckerboard background for OpenCap calibration.\n\n\n\n// Test setup with tripods, board, and tape shown. //\nWe tested 3 levels of weight (0%, 10%, and 25% of bodyweight) across participants with 5 squats at each weight for a total of 15 squats per person. Before squatting, participants were shown this video (from 0:57-1:07) to demonstrate the type of squat that they were asked to perform. No other specific coaching on form was given. Following the precedent of similar studies, we had participants follow a standardized warm-up and stretching routine prior to squatting to minimize injury risk (Lorenzetti et al., 2018). Participants followed this video from 0-2:14.\nAt the start of a session, the following information was provided to setup a participant in OpenCap: weight, height, age, and specification that the participant was unimpaired. Once the session was finished, the data was automatically uploaded to the cloud, which used the Lai model from OpenCap, which uses the model and that data collected to optimize the best fit for marker positions throughout time and report inverse kinematics and inverse dynamics. More in-depth information on OpenCap processing can be found on the OpenCap website, and in Uhlrich et al., 2023.\nEach round of 5 squats was captured together in one OpenCap video. Between rounds, participants took a 2-minute rest to minimize any possible effects of fatigue (Martorelli et al., 2015). For the first round of squatting (0% loading case) the participant put their left hand in the air and then dropped it before starting the squats in order to synchronize the cameras (Mobilize Center, 2022). For the 10% and 25% loading cases, the participants were instructed to hold a handheld weight in front of them while squatting. A new session was started each time a new participant’s data was recorded."
   },
   {
     "objectID": "methods/methods.html#data-processing",
     "href": "methods/methods.html#data-processing",
     "title": "Methods",
     "section": "Data processing",
-    "text": "Data processing\nA python pipeline was used to process and analyze the data. OpenCap data was pulled off of OpenCap using a batch download script from OpenCap. A function based off of the existing OpenColab notebook pulled the data for the relevant joint angles during each squat at each loading condition for one participant. It removed the first half second of data (noise elimination), plotted the data, and then output a matrix of maximum and minimum relevant joint angles for each squat at each loading condition. This was done for each participant. The scipy and stats python packages were incorporated in custom functions for statistical analysis.\n// Diagram of pipeline: Batch download → Max or min angular data pulled out of each participants data → [branch] → (top branch) data compared within participants using ANOVA → two-sided t-test if ANOVA significant → p-values reported and plotted in bar form. → (bottom branch) data compared between untrained and trained participants using two-sided t-test → p-values reported and plotted in table form. //\nNine joint angles were analyzed in this study, four of which are duplicates as they were measured on both the right and left side of the body: hip flexion, hip adduction angle (as a proxy for knee valgus angle), hip internal rotation, knee flexion angle (reported as knee angle), and trunk extension angle. These are all angles that are frequently studied in the literature when looking at squats. These angles were analyzed both within participants and between participant groups. In the within participant case, each angle’s data (five data points from the five squats) were compared between loading conditions using the ANOVA test. If the test was significant, two sided T-tests were performed between each loading condition (three tests). In the between participant case, each participant’s angle data for a specific loading condition was averaged. Then the average angle per condition from all participants were combined into average angles per condition for the untrained group and the trained group. T-tests were performed between each angle at each loading condition. In both cases, only statistically significant differences are reported due to the vast amount of tests performed."
+    "text": "Data processing\nA python pipeline was used to process and analyze the data. OpenCap data was pulled off of OpenCap using a batch download script from OpenCap. A function based off of the existing OpenColab notebook pulled the data for the relevant joint angles during each squat at each loading condition for one participant. It removed the first half second of data (noise elimination), plotted the data, and then output a matrix of maximum and minimum relevant joint angles for each squat at each loading condition. This was done for each participant. The scipy and stats python packages were incorporated in custom functions for statistical analysis. A diagram of the data processing pipeline is shown below.\n\n\n\nData processing pipeline\n\n\nNine joint angles were analyzed in this study, four of which are duplicates as they were measured on both the right and left side of the body: hip flexion, hip adduction angle (as a proxy for knee valgus angle), hip internal rotation, knee flexion angle (reported as knee angle), and trunk extension angle. These are all angles that are frequently studied in the literature when looking at squats. These angles were analyzed both within participants and between participant groups. In the within participant case, each angle’s data (five data points from the five squats) were compared between loading conditions using the ANOVA test. If the test was significant, two sided T-tests were performed between each loading condition (three tests). In the between participant case, each participant’s angle data for a specific loading condition was averaged. Then the average angle per condition from all participants were combined into average angles per condition for the untrained group and the trained group. T-tests were performed between each angle at each loading condition. In both cases, only statistically significant differences are reported due to the vast amount of tests performed."
+<<<<<<< HEAD
   },
   {
     "objectID": "analysis_discussion/between_a_d.html#results",
@@ -137,6 +138,8 @@
     "href": "analysis_discussion/within_a_d.html#results",
     "title": "Analysis and Discussion Within Participants",
     "section": "Results",
-    "text": "Results\nFor each participant, we extracted the following angles:\n\nHip flexion (maximum values)\nHip adduction (minimum values)\nHip rotation (maximum values)\nKnee angle (maximum values)\nTrunk extension (minimum values)\n\nHere is an example of what one set of squats would look like for each participant:\n\n\n\nExample Angles Extracted\n\n\nThe angles of interest for hip adduction and trunk extension are reported as negative values for the squats over time, but to normalize our data, we have used the absolute value of each these minimums. Therefore, all future data presents these as positive values.\nThe following data was found within participants.\nWe are comparing the average angle maximum or minimums across 3 loading conditions within participants. We will present this information as a set of bar graphs for each participant within statistically significant differences between loading conditions as pictured below. Each bar graph set will include the angles that have been determined to be statistically significant based on a two-sided t-test.\n\n\n\nExample Bar Chart for Within Participants\n\n\nWe will also include a table of the angles and p-values as another way to group this data more comprehensively."
+    "text": "Results\nFor each participant, we extracted the following angles:\n\nHip flexion (maximum values)\nHip adduction (minimum values)\nHip rotation (maximum values)\nKnee angle (maximum values)\nTrunk extension (minimum values)\n\nHere is an example of what one set of squats would look like for each participant:\n\n\n\nExample Angles Extracted\n\n\nThe angles of interest for hip adduction and trunk extension are reported as negative values for the squats over time, but to normalize our data, we have used the absolute value of each these minimums. Therefore, all future data presents these as positive values.\nThe following data was found within participants.\nWe are comparing the average angle maximum or minimums across 3 loading conditions within participants. We will present this information as a set of bar graphs for each participant within statistically significant differences between loading conditions as pictured below. Each bar graph set will include the angles that have been determined to be statistically significant based on a two-sided t-test.\n \nWe will also include a table of the angles and p-values as another way to group this data more comprehensively."
+=======
+>>>>>>> b8c5785bf8ba2a46016e97e610c8262dd98592fc
   }
 ]
