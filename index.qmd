@@ -13,6 +13,5 @@ The objective of this project is to quantify changes in squat biomechanics as lo
 These questions summarize the main objectives:
 
 - How do joint angles change across progressive loading during squatting?
-Stretch goal: How do muscle forces change across progressive loading during squatting?
 - Do joint kinematics and kinetics change such that they no longer match proper form as the load of a squat increases? 
 - How does the above compare between people and to the proper squatting form determined from previous literature?  
