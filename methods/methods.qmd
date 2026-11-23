@@ -4,7 +4,7 @@ title: "Methods"
 ---
 
 ## Participant Recruitment
-We collected data from 14 people, who were selected from respondents to a google form sent out to the student body. Five participants had no formal coaching on proper squat form, while 9 participants had received some form of formal coaching, such as from athletics coaches. To follow OSHA safety guidelines, loading was capped at 50lbs. Therefore, to standardize the loading based on bodyweight percentage, no participants above 200lbs were selected for this experiment.
+We collected data from 14 people, who were selected from respondents to a google form sent out to the student body. As a result all participants were college students between the ages of 18-22. Five participants had no formal coaching on proper squat form, while 9 participants had received some form of formal coaching, such as from athletics coaches. Overall, almost all participants were athletes to some extent, even if they hadn't had formal coaching. To follow OSHA safety guidelines, loading was capped at 50lbs. Therefore, to standardize the loading based on bodyweight percentage, no participants above 200lbs were selected for this experiment.
 After informing the participants of the risks of the study and obtaining consent, we will collected the the following background information for each participant, which was kept anonymous and confidential:
 
 * Height
@@ -22,7 +22,6 @@ During the testing slot for each participant, they were reminded that their part
 <figcaption>Checkerboard background for OpenCap calibration.</figcaption>
 </figure>
 </div>
-// Test setup with tripods, board, and tape shown. //
 
 We tested 3 levels of weight (0%, 10%, and 25% of bodyweight) across participants with 5 squats at each weight for a total of 15 squats per person. Before squatting, participants were shown this [video](https://youtu.be/v_c67Omje48?si=mdjvCrdrU22HiMba&t=57) (from 0:57-1:07) to demonstrate the type of squat that they were asked to perform. No other specific coaching on form was given. Following the precedent of similar studies, we had participants follow a standardized warm-up and stretching routine prior to squatting to minimize injury risk (Lorenzetti et al., 2018). Participants followed this [video](https://www.youtube.com/watch?v=kNLCnNHN238) from 0-2:14. 
 
