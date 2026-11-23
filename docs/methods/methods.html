@@ -47,6 +47,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-48eea8e06ff06eb442a2daacfce5ac08.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -192,6 +194,9 @@ Checkerboard background for OpenCap calibration.
 <p>We tested 3 levels of weight (0%, 10%, and 25% of bodyweight) across participants with 5 squats at each weight for a total of 15 squats per person. Before squatting, participants were shown this <a href="https://youtu.be/v_c67Omje48?si=mdjvCrdrU22HiMba&amp;t=57">video</a> (from 0:57-1:07) to demonstrate the type of squat that they were asked to perform. No other specific coaching on form was given. Following the precedent of similar studies, we had participants follow a standardized warm-up and stretching routine prior to squatting to minimize injury risk (Lorenzetti et al., 2018). Participants followed this <a href="https://www.youtube.com/watch?v=kNLCnNHN238">video</a> from 0-2:14.</p>
 <p>At the start of a session, the following information was provided to setup a participant in OpenCap: weight, height, age, and specification that the participant was unimpaired. Once the session was finished, the data was automatically uploaded to the cloud, which used x model from OpenCap, which uses the model and that data collected to optimize the best fit for marker positions throughout time and report inverse kinematics and inverse dynamics. More in-depth information on OpenCap processing can be found on the OpenCap website, and in Uhlrich et al., 2023.</p>
 <p>Each round of 5 squats was captured together in one OpenCap video. Between rounds, participants took a 2-minute rest to minimize any possible effects of fatigue (Martorelli et al., 2015). For the first round of squatting (0% loading case) the participant put their left hand in the air and then dropped it before starting the squats in order to synchronize the cameras (Mobilize Center, 2022). For the 10% and 25% loading cases, the participants were instructed to hold a handheld weight in front of them while squatting. A new session was started each time a new participant’s data was recorded.</p>
+<div style="text-align: center;">
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" width="800" height="450" class="video-js vjs-default-skin vjs-big-play-centered " controls="" preload="auto" data-setup="{}" title=""><source src="videos\ParticipantJblur.mp4"></video></div>
+</div>
 </section>
 <section id="data-processing" class="level2">
 <h2 class="anchored" data-anchor-id="data-processing">Data processing</h2>
@@ -680,6 +685,7 @@ Checkerboard background for OpenCap calibration.
   window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
   </script>
 </div> <!-- /content -->
+<script>videojs(video_shortcode_videojs_video1);</script>
 
 
 
