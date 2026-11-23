@@ -30,6 +30,10 @@ At the start of a session, the following information was provided to setup a par
 
 Each round of 5 squats was captured together in one OpenCap video. Between rounds, participants took a 2-minute rest to minimize any possible effects of fatigue (Martorelli et al., 2015). For the first round of squatting (0% loading case) the participant was asked to put a hand in the air and then drop it before starting the squats in order to synchronize the cameras (Mobilize Center, 2022). For the 10% and 25% loading cases, the participants were instructed to hold a handheld weight in front of them while squatting. A new session was started each time a new participant’s data was recorded.  
 
+::: {style="text-align: center;"}
+{{< video videos\ParticipantJblur.mp4 width="800" height="450">}}
+:::
+
 ## Data processing
 	
 A python pipeline was used to process and analyze the data. OpenCap data was pulled off of OpenCap using a batch download script from OpenCap. A function based off of the existing OpenColab notebook pulled the data for the relevant joint angles during each squat at each loading condition for one participant. It removed the first half second of data (noise elimination), plotted the data, and then output a matrix of maximum and minimum relevant joint angles for each squat at each loading condition. This was done for each participant. The scipy and stats python packages were incorporated in custom functions for statistical analysis. A diagram of the data processing pipeline is shown below. 
