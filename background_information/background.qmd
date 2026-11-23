@@ -9,9 +9,9 @@ Squatting is a movement that involves bending the knees while keeping the feet a
 
 // add picture/gif of squatting to break up text?  // 
 
-This movement involves many of the lower body muscles and joints. During the descent of a squat, the muscles involved contract eccentrically, the hip and knee joints flex, and the ankles dorsiflex (Sutton, 2021). During the ascent of a squat, the muscles involved contract concentrically, the hip and knee joints extend, and the ankles plantarflex (Sutton, 2021). Concentric contraction means that the muscle shortens to produce a force while eccentric contraction means that the muscle lengthens while maintaining a load. 
+This movement involves many of the lower body muscles and joints. During the descent of a squat, the muscles involved contract eccentrically, the hip and knee joints flex, and the ankles dorsiflex (Sutton, 2021). During the ascent of a squat, the muscles involved contract concentrically, the hip and knee joints extend, and the ankles plantarflex (Sutton, 2021). Concentric contraction means that the muscle shortens to produce a force while eccentric contraction means that the muscle lengthens while maintaining a load, as shown the image below. 
 
-// pic with labels on each of the joints showing the eccentric vs concentric contraction //
+![Concentric and eccentric muscle contraction](images/muscle_contraction.jpeg){fig-alt="Image showing how the leg muscle concentrically contracts and eccentrically contracts during a squat movement"}
 
 The primary muscles associated with squats are in the legs. The quadriceps are largely involved with the knee extension during the squat, including the rectus femoris, the vastus lateralis, the vastus medialis, and the vastus intermedius (Sutton, 2021). The hip extension is supported by the gluteus maximus, the hamstrings, and the adductor magnus (Sutton, 2021). The hamstrings, which include the biceps femoris, the semitendinosus, and the semimembranosus, are also the source of a lot of the force produced in the lower body (Sutton, 2021). 
 
